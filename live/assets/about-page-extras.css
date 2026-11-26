@@ -1,0 +1,10 @@
+/* ASPI About pages only: remove the redundant institute mini-brand strip and contact cards. */
+body.aspi-about-page .about-bottom-note,
+body.aspi-about-page .about-bottom-brand,
+body.aspi-about-page .about-brand-note,
+body.aspi-about-page .about-brand-card,
+body.aspi-about-page .institution-bottom-note,
+body.aspi-about-page .page-bottom-brand,
+body.aspi-about-page .contactstrip {
+  display: none !important;
+}

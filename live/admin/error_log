@@ -1,0 +1,20 @@
+[02-Nov-2026 09:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'totaxqrf_aspi.diploma_programs' doesn't exist in /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php:12
+Stack trace:
+#0 /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php(12): PDO->query()
+#1 {main}
+  thrown in /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php on line 12
+[02-Nov-2026 09:32:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'totaxqrf_aspi.diploma_programs' doesn't exist in /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php:12
+Stack trace:
+#0 /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php(12): PDO->query()
+#1 {main}
+  thrown in /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php on line 12
+[02-Nov-2026 09:33:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'totaxqrf_aspi.diploma_programs' doesn't exist in /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php:12
+Stack trace:
+#0 /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php(12): PDO->query()
+#1 {main}
+  thrown in /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php on line 12
+[02-Nov-2026 09:34:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'totaxqrf_aspi.diploma_programs' doesn't exist in /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php:12
+Stack trace:
+#0 /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php(12): PDO->query()
+#1 {main}
+  thrown in /home/totaxqrf/aspi.edu.bd/live/admin/diploma.php on line 12

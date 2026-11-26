@@ -1,0 +1,9 @@
+ASPI Public Pages Audit Fix - 18 Nov 2026
+
+Changes:
+- Shared public mobile navigation toggle made idempotent and consistent.
+- Removed the duplicate mobile menu toggle script from notices.php which could toggle the shared menu twice.
+- notices.php list is title-only: SQL no longer selects description and card description output removed.
+- Compact notice-card spacing for desktop and mobile.
+
+Install: upload the included live/ files over the existing live/ directory. Keep live/app/config.local.php, uploads, and user data unchanged. Clear site cache after upload.
